@@ -1,0 +1,49 @@
+import Image from "next/image";
+import styles from "./page.module.css";
+
+export default function Home() {
+  return (
+    <main className="container">
+
+      <div className={styles.main}>
+        <img src="/logo.svg" alt="ClinPGx.org logo" className={styles.heroLogo}/>
+      </div>
+
+      <p>ClinPGx (Clinical Pharmacogenomics Resource) integrates the PharmGKB, CPIC and PharmCAT into a single resource.
+        There is confusion in the community at times as to which project (e.g., PharmGKB or CPIC) does what, including
+        specific functionality (i.e., CPIC writes genotype-based prescribing guidelines, PharmGKB implements different
+        ways to access those guidelines including specific diplotype recommendations and compares those recommendations
+        from different resources including CPIC, other guideline groups, FDA PGx and biomarker tables). The multiple
+        websites require significant effort to ensure that the databases/KBs stay in sync not only across these groups,
+        but with outside resources. PharmGKB coordinates this synchronization as well as data deposition from these
+        resources to ClinVar. In addition, multiple resources require more effort by having multiple Scientific Advisory
+        Boards, Steering Committees and work by volunteers, applicant institutions, and the NIH to elucidate the
+        specific job responsibilities (i.e., a curator on PharmGKB vs. PharmCAT vs. CPIC vs. PharmVar). Lastly, as
+        mentioned above, this has created a siloing effect of PGx that cannot and should not be sustained.</p>
+      <p>Thus, we are excited that in the coming 18 months, we hope to formally launch ClinPGx with all resources below
+        integrated. During this transitionary time, we will begin to introduce ClinPGx wherever appropriate, but will
+        NOT be losing the branding of CPIC and the PharmGKB. For example, the CPIC guidelines will remain the CPIC
+        guidelines and much of the organizational structure for CPIC will remain the same. The big difference will be
+        that you would obtain the CPIC guidelines from the ClinPGx website and the CPIC website will be deprecated.</p>
+
+      <section className={styles.meeting}>
+        <h2>ClinPGx 2024 Meeting</h2>
+        <p>The CPIC Bi-annual meeting is held as ClinPGx 2024 in collaboration with the PharmGKB, PharmCAT and
+          PharmVar.</p>
+
+        <p>
+          <a href="https://cpicpgx.org/meetings/" className="btn btn-primary">Register Now</a>
+        </p>
+      </section>
+
+      <section className="mt-5">
+        <p>More information will be coming over the next year. Please follow the <a
+          href="https://pharmgkb.blogspot.com">PharmGKB blog</a> for updates.</p>
+        <p>If you have questions, please contact us at <a href="mailto:feedback@pharmgkb.org">feedback@pharmgkb.org</a>
+        </p>
+      </section>
+
+      <footer className="text-muted"><p>Last updated: May 1, 2024</p></footer>
+    </main>
+  );
+}

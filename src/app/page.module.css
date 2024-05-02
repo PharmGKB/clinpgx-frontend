@@ -13,6 +13,18 @@
   margin-top: 5rem;
 }
 
+.components {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+  text-align: center;
+}
+
+.componentLogo {
+  height: 4rem;
+}
+
+
 .heroLogo {
   width: 50%;
   height: 50%;

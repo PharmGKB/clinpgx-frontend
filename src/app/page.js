@@ -36,6 +36,40 @@ export default function Home() {
         </p>
       </section>
 
+      <section className="text-center mt-5">
+        <h2>Parts of ClinPGx</h2>
+        <div className={styles.components}>
+          <div>
+            <div className={styles.componentLogo}><a href="https://www.pharmgkb.org"><img src="/pharmgkb.svg" alt="PharmGKB logo" style={{height: '2rem', marginTop: '2rem'}}/></a></div>
+            <div>Catalog human genetic variation that impacts drug response phenotype</div>
+          </div>
+          <div>
+            <div className={styles.componentLogo}>
+              <a href="https://cpicpgx.org">
+                <img src="/cpic.svg" alt="CPIC logo" style={{height: '3rem',marginTop: '1rem'}}/>
+              </a>
+            </div>
+            <div>Create and disseminate gene/drug clinical practice guidelines</div>
+          </div>
+          <div>
+            <div className={styles.componentLogo}>
+              <a href="https://pharmcat.org">
+                <img src="/pharmcat.svg" alt="PharmCAT logo" style={{height: '4rem'}}/>
+              </a>
+            </div>
+            <div>Generate interpretation report with prescribing guidance from genomic data</div>
+          </div>
+          <div>
+            <div className={styles.componentLogo}>
+              <a href="https://pharmvar.org">
+                <img src="/pharmvar.svg" alt="PharmVar logo" style={{height: '2rem', marginTop: '2rem'}}/>
+              </a>
+            </div>
+            <div>Assign allele nomenclature for pharmacogene haplotypes</div>
+          </div>
+        </div>
+      </section>
+
       <section className="mt-5">
         <p>More information will be coming over the next year. Please follow the <a
           href="https://pharmgkb.blogspot.com">PharmGKB blog</a> for updates.</p>

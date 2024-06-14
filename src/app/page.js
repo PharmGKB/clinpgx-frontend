@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
@@ -71,9 +70,12 @@ export default function Home() {
       </section>
 
       <section className="mt-5">
-        <p>More information will be coming over the next year. Please follow the <a
-          href="https://pharmgkb.blogspot.com">PharmGKB blog</a> for updates.</p>
-        <p>If you have questions, please contact us at <a href="mailto:feedback@pharmgkb.org">feedback@pharmgkb.org</a>
+        <p>
+          More information will be coming over the next year. Please follow the <a href="https://blog.clinpgx.org">
+          ClinPGx blog</a> for updates.
+        </p>
+        <p>
+          If you have questions, please contact us at <a href="mailto:feedback@clinpgx.org">feedback@clinpgx.org</a>
         </p>
       </section>
 

@@ -25,16 +25,6 @@ export default function Home() {
         guidelines and much of the organizational structure for CPIC will remain the same. The big difference will be
         that you would obtain the CPIC guidelines from the ClinPGx website and the CPIC website will be deprecated.</p>
 
-      <section className={styles.meeting}>
-        <h2>ClinPGx 2024 Meeting</h2>
-        <p>The CPIC Bi-annual meeting is held as ClinPGx 2024 in collaboration with the PharmGKB, PharmCAT and
-          PharmVar.</p>
-
-        <p>
-          <a href="https://cpicpgx.org/meetings/" className="btn btn-primary">Register Now</a>
-        </p>
-      </section>
-
       <section className="text-center mt-5">
         <h2>Parts of ClinPGx</h2>
         <div className={styles.components}>
@@ -79,7 +69,7 @@ export default function Home() {
         </p>
       </section>
 
-      <footer className="text-muted"><p>Last updated: May 1, 2024</p></footer>
+      <footer className="text-muted"><p>Last updated: Jun 27, 2024</p></footer>
     </main>
   );
 }

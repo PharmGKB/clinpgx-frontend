@@ -25,11 +25,25 @@ export default function Home() {
         guidelines and much of the organizational structure for CPIC will remain the same. The big difference will be
         that you would obtain the CPIC guidelines from the ClinPGx website and the CPIC website will be deprecated.</p>
 
+      <section className="text-center mt-5" id="meeting-2024">
+        <h2>ClinPGx Meeting 2024</h2>
+        <iframe width="560" height="315"
+                src="https://www.youtube.com/embed/videoseries?si=pKjod_sTe4eh5KVY&amp;list=PLbP5DJELA1WOXXC3XLpFscYUdxmgm1yzg"
+                title="YouTube video player" frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        <p>Presentations from ClinPGX 2024 are available on Youtube. There is a <a href="https://www.youtube.com/playlist?list=PLbP5DJELA1WOXXC3XLpFscYUdxmgm1yzg">playlist with all presentations listed by speaker</a>.</p>
+      </section>
+
       <section className="text-center mt-5">
         <h2>Parts of ClinPGx</h2>
         <div className={styles.components}>
           <div>
-            <div className={styles.componentLogo}><a href="https://www.pharmgkb.org"><img src="/pharmgkb.svg" alt="PharmGKB logo" style={{height: '2rem', marginTop: '2rem'}}/></a></div>
+            <div className={styles.componentLogo}><a href="https://www.pharmgkb.org"><img src="/pharmgkb.svg"
+                                                                                          alt="PharmGKB logo" style={{
+              height: '2rem',
+              marginTop: '2rem'
+            }}/></a></div>
             <div>Catalog human genetic variation that impacts drug response phenotype</div>
           </div>
           <div>

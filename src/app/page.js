@@ -27,12 +27,8 @@ export default function Home() {
 
       <section className="text-center mt-5" id="meeting-2024">
         <h2>ClinPGx Meeting 2024</h2>
-        <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/videoseries?si=pKjod_sTe4eh5KVY&amp;list=PLbP5DJELA1WOXXC3XLpFscYUdxmgm1yzg"
-                title="YouTube video player" frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-        <p>Presentations from ClinPGX 2024 are available on Youtube. There is a <a href="https://www.youtube.com/playlist?list=PLbP5DJELA1WOXXC3XLpFscYUdxmgm1yzg">playlist with all presentations listed by speaker</a>.</p>
+        <p><a href="https://www.youtube.com/playlist?list=PLbP5DJELA1WOXXC3XLpFscYUdxmgm1yzg">Presentation video recordings</a> are available on Youtube. There is a playlist with all presentations listed by speaker.</p>
+        <p><a href="https://drive.google.com/drive/folders/16d3SHbMNQxqfZ-uR0vgw777DIzpCXJ-d?usp=sharing">Presentation slides</a> are available on Google Drive.</p>
       </section>
 
       <section className="text-center mt-5">

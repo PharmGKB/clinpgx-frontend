@@ -28,15 +28,15 @@ export default function Home() {
 
       <section className="text-center mt-5" id="meeting-2024">
         <h2>ClinPGx Meeting 2024</h2>
-        <p>This meeting took place June 20-21, 2024 at the University of Pennsylvania.<br/><Link href="/meeting/2024">Presentation videos and slides</Link> are available from the meeting</p>
+        <p>This meeting took place June 20-21, 2024 at the University of Pennsylvania.<br/><Link href="/meeting/2024.html">Presentation videos and slides</Link> are available from the meeting</p>
       </section>
 
       <section className="text-center mt-5">
         <h2>Parts of ClinPGx</h2>
         <div className={styles.components}>
           <div>
-            <div className={styles.componentLogo}><a href="https://www.pharmgkb.org"><img src="/pharmgkb.svg"
-                                                                                          alt="PharmGKB logo" style={{
+            <div className={styles.componentLogo}><a href="https://www.pharmgkb.org">
+              <img src="/pharmgkb.svg" alt="PharmGKB logo" style={{
               height: '2rem',
               marginTop: '2rem'
             }}/></a></div>

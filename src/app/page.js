@@ -28,7 +28,7 @@ export default function Home() {
 
       <section className="text-center mt-5" id="meeting-2024">
         <h2>ClinPGx Meeting 2024</h2>
-        <p>This meeting took place June 20-21, 2024 at the University of Pennsylvania.<br/><Link href="/meeting/2024.html">Presentation videos and slides</Link> are available from the meeting</p>
+        <p>This meeting took place June 20-21, 2024 at the University of Pennsylvania.<br/><Link href="/meeting/2024/">Presentation videos and slides</Link> are available from the meeting</p>
       </section>
 
       <section className="text-center mt-5">

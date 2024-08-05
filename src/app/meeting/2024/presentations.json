@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "title": "Why PGx (Justification as to why we are all here)",
+    "talks": [
+      {
+        "title": "Opening Remarks",
+        "presenter": ["Kelly Caudle, PharmD, PhD - St. Jude Children’s Research Hospital"],
+        "videoUrl": "https://www.youtube.com/watch?v=IePKNnKIcJA",
+        "slidesUrl": ""
+      },
+      {
+        "title": "Stevens Johnson Syndrome and Implementation of HLA Testing",
+        "presenter": ["Sony Tuteja, PharmD, MS - Penn Center for Precision Medicine, University of Pennsylvania"],
+        "videoUrl": "https://www.youtube.com/watch?v=Wet1opRH724",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_1-2___Tuteja_Sony.pdf"
+      },
+      {
+        "title": "Physician’s View: Stevens Johnson Syndrome",
+        "presenter": ["Teri Manolio, MD, PhD - National Human Genome Research"],
+        "videoUrl": "https://www.youtube.com/watch?v=Ropg_U5Y_xo",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_1-1___Manolio_Teri.pdf"
+      },
+      {
+        "title": "Representative View: Stevens Johnson Syndrome",
+        "presenter": ["Paul Anderson – parent of Angela Anderson"],
+        "videoUrl": "https://www.youtube.com/watch?v=BS6gSVh4Qdo",
+        "slidesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Implementation Strategies (Justification as to how we are doing this)",
+    "talks": [
+      {
+        "title": "VA National Pharmacogenomics Program: PGx Implementation in the Veterans Health Administration",
+        "presenter": ["Deepak Voora, MD - Durham Veterans Affairs Medical Center"],
+        "videoUrl": "https://www.youtube.com/watch?v=T6I2joDfWwM",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_2-1___Voora_Deepak.pdf"
+      },
+      {
+        "title": "Implementing CYP3A5 and Tacrolimus`",
+        "presenter": ["Amy Pasternak, PharmD – University of Michigan, College of Pharmacy"],
+        "videoUrl": "https://www.youtube.com/watch?v=FC0EJh-4n6I",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_2-2___Pasternak.pdf"
+      },
+      {
+        "title": "Implementation of Clinical Pharmacogenomics Across a Multi-State Health System",
+        "presenter": ["Natasha Petry, PharmD, MPH - Sanford Health Imagenetics"],
+        "videoUrl": "https://www.youtube.com/watch?v=jq93FlPOIt0",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_2-3___Petry.pdf"
+      },
+      {
+        "title": "State of the Art with Clinical Labs and Implementers:  A Panel Discussion",
+        "presenter": [
+          "Kristine Crews, PharmD - St. Jude Children’s Research Hospital",
+          "Mark Dunnenberger, PharmD - Endeavor Health"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ECBpvev4YlA",
+        "slidesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Regulatory Hurdles and the Path Forward",
+    "talks": [
+      {
+        "title": "Legislation Efforts in Pharmacogenomics",
+        "presenter": ["Kristine Ashcraft, BS, MBA – YouScript"],
+        "videoUrl": "https://www.youtube.com/watch?v=uc1eEZnSRIk",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_3-1___Ashcraft_Kristine.pdf"
+      },
+      {
+        "title": "Challenges and Opportunities in Regulating Pharmacogenomics",
+        "presenter": ["Don Rule - Translational Software"],
+        "videoUrl": "https://www.youtube.com/watch?v=8tpbsLX5qpM",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_3-2___Rule_Don.pdf"
+      },
+      {
+        "title": "The All of Us Experience",
+        "presenter": ["Phil Empey, PharmD, PhD - University of Pittsburgh"],
+        "videoUrl": "https://www.youtube.com/watch?v=pDYnYxJ2cD4",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_3-3___Empey_Philip.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "PGx Resources",
+    "talks": [
+      {
+        "title": "The Pharmacogene Variation Consortium (PharmVar) – New Content and Features",
+        "presenter": ["Andrea Gaedigk, PhD – Children’s Mercy Research Institute"],
+        "videoUrl": "https://www.youtube.com/watch?v=I-2xwxTb52Y",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_4-1___Gaedigk_Andrea.pdf"
+      },
+      {
+        "title": "Clinical Pharmacogenetics Implementation Consortium (CPIC)",
+        "presenter": ["Kelly Caudle, PharmD, PhD - St. Jude Children’s Research Hospital"],
+        "videoUrl": "https://www.youtube.com/watch?v=4mkLje6dZ34",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_4-2___Caudle_Kelly.pdf"
+      },
+      {
+        "title": "Pharmacogenomics Knowledgebase (PharmGKB) and Pharmacogenomics Clinical Annotation Tool (PharmCAT)",
+        "presenter": ["Michelle Whirl-Carrillo, PhD – Stanford University"],
+        "videoUrl": "https://www.youtube.com/watch?v=CNNWTmqdZ9U",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_4-3___Whirl-Carrillo_Michelle.pdf"
+      },
+      {
+        "title": "Clinical Pharmacogenomics (ClinPGx) and Clinical Genome Resource (ClinGen)",
+        "presenter": ["Teri E. Klein, PhD – Stanford University"],
+        "videoUrl": "https://www.youtube.com/watch?v=M1wxa_TRx-Y",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_4-4___Klein_Teri_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Use of AI and LLMs to Improve Precision Health",
+    "talks": [
+      {
+        "title": "Leveraging Electronic Health Record Data for Targeted Detection of Cognitive Impairment",
+        "presenter": ["Kyra O’Brien, MD – Penn Memory Center, University of Pennsylvania"],
+        "videoUrl": "https://www.youtube.com/watch?v=0wjDo9vLnm4",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_5-2___Penberthy_David.pdf"
+      },
+      {
+        "title": "AI & Oncology: Managing the Tsunami of Medical Information",
+        "presenter": ["David Penberthy, MD, MBA - University of Virginia"],
+        "videoUrl": "https://www.youtube.com/watch?v=g3B1Y6sZRcE",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_5-3_Lee_Su-In.pdf"
+      },
+      {
+        "title": "Explainable AI for Health: Where We Are and How to Move Forward",
+        "presenter": ["Su-In Lee, PhD - University of Washington"],
+        "videoUrl": "https://www.youtube.com/watch?v=hYf4BrEG-RU",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_5-3_Lee_Su-In.pdf"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Advancing Pharmacogenomics Education Across the Spectrum of Clinician",
+    "talks": [
+      {
+        "title": "Beginning at the Beginning: Preparing Students in Pharmacy and Medical Schools to Become Leaders in Pharmacogenomics",
+        "presenter": ["Kristin Wiisanen, PharmD - Rosalind Franklin of Medicine and Science"],
+        "videoUrl": "https://www.youtube.com/watch?v=-DLZpxb0m0k",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_6-1___Wiisanen_Kristen.pdf"
+      },
+      {
+        "title": "Equipping Residents and Fellows to Deliver the Future of Precision Medicine",
+        "presenter": ["Kristine Crews, PharmD - St. Jude Children’s Research"],
+        "videoUrl": "https://www.youtube.com/watch?v=nHTnwBQgq70",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_6-2___Crews_Kristine.pdf"
+      },
+      {
+        "title": "Improving the Genomic Literacy of Healthcare Professionals Through the Inter-Society Coordinating Committee for Practitioner Education in Genomics (ISCC-PEG)",
+        "presenter": ["Roseann Donnelly, PharmD, FCCP, BCPS - Massachusetts College of Pharmacy and Health Sciences"],
+        "videoUrl": "https://www.youtube.com/watch?v=iRlwuaO-ZZE",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_6-3___Donnelly_Roseann.pdf"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Recent Developments from the Clinical Labs and EHR & Closing",
+    "talks": [
+      {
+        "title": "AMP’s Recommendations for Clinical Pharmacogenotyping Allele Selection",
+        "presenter": ["Victoria Pratt, PhD, FACMG - Indiana University School of Medicine"],
+        "videoUrl": "https://www.youtube.com/watch?v=1b3UyDlrRuM",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_7-1___Pratt_Victoria.pdf"
+      },
+      {
+        "title": "Development of In-house PGx Testing at Children’s Mercy",
+        "presenter": ["Laura Ramsey, PhD - Children’s Mercy"],
+        "videoUrl": "https://www.youtube.com/watch?v=MnnjUM_7fmE",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_7-1___Pratt_Victoria.pdf"
+      },
+      {
+        "title": "Using the EHR for PGx and Closing Remarks",
+        "presenter": ["Marylyn Ritchie, PhD - University of Pennsylvania, Perelman School of Medicine"],
+        "videoUrl": "https://www.youtube.com/watch?v=6vQuUyrVXZE",
+        "slidesUrl": "https://s3.pgkb.org/clinpgx/meeting/2024/Session_7-3___Ritchie_Marylyn.pdf"
+      }
+    ]
+  }
+]

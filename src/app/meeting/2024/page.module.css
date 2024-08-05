@@ -1,0 +1,19 @@
+h1.meeting {
+    padding-top: 5rem;
+}
+
+.session {
+    margin: 2rem 0;
+}
+
+.talk {
+    margin-top: 1rem;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.presenter {
+    font-style: italic;
+}

@@ -13,11 +13,21 @@
   margin-top: 5rem;
 }
 
-.components {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 2rem;
+.section {
   text-align: center;
+  margin-top: 10rem;
+}
+
+.components {
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  margin: auto;
+  text-align: center;
+
+  & div {
+    margin-top: 1rem;
+  }
 }
 
 .componentLogo {

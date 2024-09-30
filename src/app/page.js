@@ -25,26 +25,21 @@ export default function Home() {
         guidelines and much of the organizational structure for CPIC will remain the same. The big difference will be
         that you would obtain the CPIC guidelines from the ClinPGx website and the CPIC website will be deprecated.</p>
 
-      <section className="text-center mt-5" id="meeting-2024">
-        <h2>ClinPGx Meeting 2024</h2>
-        <p>This meeting took place June 20-21, 2024 at the University of Pennsylvania.<br/><a href="/meeting/2024/index.html">Presentation videos and slides</a> are available from the meeting</p>
-      </section>
-
-      <section className="text-center mt-5">
+      <section className={styles.section}>
         <h2>Parts of ClinPGx</h2>
         <div className={styles.components}>
           <div>
-            <div className={styles.componentLogo}><a href="https://www.pharmgkb.org">
-              <img src="/pharmgkb.svg" alt="PharmGKB logo" style={{
-              height: '2rem',
-              marginTop: '2rem'
-            }}/></a></div>
+            <div className={styles.componentLogo} style={{marginBottom: '-2rem'}}>
+              <a href="https://www.pharmgkb.org">
+                <img src="/pharmgkb.svg" alt="PharmGKB logo" style={{height: '2rem'}}/>
+              </a>
+            </div>
             <div>Catalog human genetic variation that impacts drug response phenotype</div>
           </div>
           <div>
             <div className={styles.componentLogo}>
               <a href="https://cpicpgx.org">
-                <img src="/cpic.svg" alt="CPIC logo" style={{height: '3rem',marginTop: '1rem'}}/>
+                <img src="/cpic.svg" alt="CPIC logo" style={{height: '4rem', marginTop: '1rem'}}/>
               </a>
             </div>
             <div>Create and disseminate gene/drug clinical practice guidelines</div>
@@ -52,15 +47,21 @@ export default function Home() {
           <div>
             <div className={styles.componentLogo}>
               <a href="https://pharmcat.org">
-                <img src="/pharmcat.svg" alt="PharmCAT logo" style={{height: '4rem'}}/>
+                <img src="/pharmcat.svg" alt="PharmCAT logo" style={{height: '5rem'}}/>
               </a>
             </div>
             <div>Generate interpretation report with prescribing guidance from genomic data</div>
           </div>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <h2>Interacts Via API With</h2>
+        <div className={styles.components}>
           <div>
-            <div className={styles.componentLogo}>
+            <div className={styles.componentLogo} style={{height: '2rem'}}>
               <a href="https://pharmvar.org">
-                <img src="/pharmvar.svg" alt="PharmVar logo" style={{height: '2rem', marginTop: '2rem'}}/>
+                <img src="/pharmvar.svg" alt="PharmVar logo" style={{height: '2rem'}}/>
               </a>
             </div>
             <div>Assign allele nomenclature for pharmacogene haplotypes</div>
@@ -68,7 +69,13 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mt-5">
+      <section className={styles.section} id="meeting-2024">
+        <h2>ClinPGx Meeting 2024</h2>
+        <p>This meeting took place June 20-21, 2024 at the University of Pennsylvania.<br/><a
+          href="/meeting/2024/index.html">Presentation videos and slides</a> are available from the meeting</p>
+      </section>
+
+      <section className={styles.section}>
         <p>
           More information will be coming over the next year. Please follow the <a href="https://blog.clinpgx.org">
           ClinPGx blog</a> for updates.

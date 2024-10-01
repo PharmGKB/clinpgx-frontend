@@ -85,7 +85,7 @@ export default function Home() {
         </p>
       </section>
 
-      <footer className="text-muted"><p>Last updated: Jun 27, 2024</p></footer>
+      <footer className="text-muted"><p>Last updated: Sep 30, 2024</p></footer>
     </main>
   );
 }
